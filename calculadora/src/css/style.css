@@ -1,0 +1,25 @@
+.is-dark {
+    background-color: #212529;
+    color: #4dff91;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.buttons {
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+
+}
+button{
+    background-color:#4dff91;
+    border: 10px solid #4dff91
+;
+}
