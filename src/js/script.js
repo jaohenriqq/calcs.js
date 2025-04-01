@@ -28,4 +28,4 @@ function switchTheme() {
     document.body.classList.toggle('is-dark')
 
 }
-document.getElementById('switchBtn').addEventListener('click',switchTheme)
+document.getElementById('switchBtn').addEventListener('click', switchTheme)
